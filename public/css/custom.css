@@ -1,0 +1,78 @@
+.form-row{
+    margin: 20px;
+}
+
+.container i {
+    cursor: pointer;
+}
+
+.heading{
+    margin-top:15px;
+    margin-left: 40px;
+    margin-bottom: 15px;
+    font-weight: 800;
+    font-size: 5rem;
+}
+
+.lecturer{
+    margin-top:50px;
+    margin-left: 40px;
+}
+
+.confirm{
+    margin-top: 40px;
+    display: flex;  
+    justify-content: center;  
+    align-items: center;
+}
+
+#mainbody{
+    margin-top: 20px;
+}
+/*
+    DEMO STYLE
+*/
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background: #fafafa;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.1em;
+    font-weight: 300;
+    line-height: 1.7em;
+    color: #999;
+}
+
+a,
+a:hover,
+a:focus {
+    color: inherit;
+    text-decoration: none;
+    transition: all 0.3s;
+}
+
+i,span {
+    display: inline-block;
+}
+
+.sidebar{
+    height: 100%;
+    transition: all 0.3s;
+    background-color: #1c77c3;
+}
+
+.list-group{
+    color: #fff;
+}
+
+.navmenu{
+    color:#fff;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.navbar-band{
+    font-family: 'Poppins', sans-serif;
+}
